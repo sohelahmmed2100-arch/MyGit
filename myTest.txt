@@ -2,3 +2,10 @@ git status
 git init
 git status
 git branch - main 
+git add .-- add all files in the folder into stage
+git commit -m "comment"
+
+git push
+
+git remote add origin https://github.com/sohelahmmed2100-arch/MyGit.git
+
