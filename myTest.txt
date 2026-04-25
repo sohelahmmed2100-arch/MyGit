@@ -9,3 +9,12 @@ git push
 
 git remote add origin https://github.com/sohelahmmed2100-arch/MyGit.git
 
+git branch -M main --MyGitBranch
+git push -u origin main
+
+--config user
+git config --global user.name sohelahmmed2100-arch
+git config --global user.email sohelahmmed2100@gmail.com
+---another branch
+git branch -M MyGitBranch --create a new branch
+git push -u origin MyGitBranch
